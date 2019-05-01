@@ -1,0 +1,4 @@
+backend/backend/local_settings.py
+backend/backend/__pycache__/__init__.cpython-36.pyc
+backend/backend/__pycache__/settings.cpython-36.pyc
+backend/qa/__pycache__/views.cpython-36.pyc
