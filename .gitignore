@@ -3,3 +3,10 @@ backend/backend/local_settings.py
 backend/backend/__pycache__/__init__.cpython-36.pyc
 backend/backend/__pycache__/settings.cpython-36.pyc
 backend/qa/__pycache__/views.cpython-36.pyc
+hello.pyc
+__pycache__/hello.cpython-36.pyc
+backend/backend/__pycache__/local_settings.cpython-36.pyc
+backend/backend/__pycache__/urls.cpython-36.pyc
+backend/backend/__pycache__/wsgi.cpython-36.pyc
+backend/qa/__pycache__/__init__.cpython-36.pyc
+backend/qa/__pycache__/urls.cpython-36.pyc
